@@ -17,7 +17,7 @@ http://172.16.1.10:41231/?special=0&title=NetThermPrintServer&content=Hello, Wor
 ```
 
 ```
-http://172.16.1.10:41231/?special=1&title=NetThermPrintServer&content=Hello,%20World!
+http://172.16.1.10:41231/?special=1&title=NetThermPrintServer&content=Hello, World!
 ```
 
-![](https://github.com/bwisn/netthermprint_server/blob/master/example.jpg?raw=true | width=400)
+<img src="example.jpg" width="300">
